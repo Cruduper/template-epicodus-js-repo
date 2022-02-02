@@ -2,7 +2,7 @@
 
 #### By _**{List of contributors}**_
 
-#### _{Brief description of application}_
+#### _{Brief description of application} [SITE LINK] https://cruduper.github.io/!!!!!insert site here!!!!!_
 
 ## Technologies Used
 
@@ -32,6 +32,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+If you have any issues or questions, contact me at briefcasemanx@gmail.com
+[MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _2022_  _Eric Crudup_
