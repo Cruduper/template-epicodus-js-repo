@@ -2,7 +2,7 @@
 
 #### By _**{List of contributors}**_
 
-#### _{Brief description of application} [SITE LINK] https://cruduper.github.io/!!!!!insert site here!!!!!_
+#### _{Brief description of application} [GH-Pages site link](https://cruduper.github.io/!!!!!insert site here!!!!)_
 
 ## Technologies Used
 
