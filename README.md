@@ -2,7 +2,7 @@
 
 #### By _**{List of contributors}**_
 
-#### _{Brief description of application} [GH-Pages site link](https://cruduper.github.io/!!!!!insert site here!!!!)_
+#### _{Brief description of application} [GH-Pages site link](https://cruduper.github.io/!!!!!insert_site_here!!!!)_
 
 ## Technologies Used
 
@@ -37,7 +37,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## License
 
-If you have any issues or questions, contact me at briefcasemanx@gmail.com
-[MIT](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)    
+If you have any issues or questions, contact me at briefcasemanx@gmail.com    
 
 Copyright (c) _2022_  _Eric Crudup_
